@@ -1,10 +1,5 @@
 ##### Menu
 theme: jacman
-stylus:
-  compress: true
-
-
-
 menu:
   Home: /
   Archives: /archives
